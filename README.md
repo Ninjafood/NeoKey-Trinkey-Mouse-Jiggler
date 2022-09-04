@@ -5,8 +5,8 @@ After installing CircuitPython using the adafruit guide provided: https://learn.
 
 simply add the lib file and code.py into the root directory of your CIRCUITPYTHON device.
 
-Additional changes can be made to the NEOPIXEL light using:
+Additional changes can be made to the NEOPIXEL light using:                    
   https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel
   
-Addition changes can be made to the Mouse Hid using:
+Addition changes can be made to the Mouse Hid using:                  
   https://github.com/adafruit/Adafruit_CircuitPython_HID
